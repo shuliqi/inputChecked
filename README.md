@@ -1,0 +1,2 @@
+# inputChecked
+JQuery不能设置checkbox选中或者不未选中的问题
